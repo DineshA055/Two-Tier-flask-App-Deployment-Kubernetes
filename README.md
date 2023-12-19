@@ -5,7 +5,8 @@
 
                     Process up to deployment in Kubernetes 
 
-                                             
+        ![image](https://github.com/DineshA055/Two-Tier-flask-App-Deployment-Kubernetes/assets/101075223/eedfb965-e9c5-4504-a5f3-20849f028151)
+
 
 
 In previous part we have completed up to docker compose
@@ -33,6 +34,7 @@ Worker-Node (Data plane):-
 Master node have  the control of worker node to give instruction perform the action.
 
 ABOVE FIND THE ARCHITECTURE OF KUBERNETES  :-
+![image](https://github.com/DineshA055/Two-Tier-flask-App-Deployment-Kubernetes/assets/101075223/9ec8ee2e-fdd4-4be9-a370-196620693d61)
 
 
 NEXT :-
