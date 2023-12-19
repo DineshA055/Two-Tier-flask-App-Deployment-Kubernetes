@@ -5,10 +5,13 @@
 
                     Process up to deployment in Kubernetes 
 
-        ![image](https://github.com/DineshA055/Two-Tier-flask-App-Deployment-Kubernetes/assets/101075223/eedfb965-e9c5-4504-a5f3-20849f028151)
+       
 
 
 
+
+
+ ![image](https://github.com/DineshA055/Two-Tier-flask-App-Deployment-Kubernetes/assets/101075223/eedfb965-e9c5-4504-a5f3-20849f028151)
 In previous part we have completed up to docker compose
 
 In same way our image is available in Docker-Hub so we can use image anytime by pull the image from docker hub
